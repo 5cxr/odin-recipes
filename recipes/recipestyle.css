@@ -1,0 +1,14 @@
+#head{
+    font-size: 100px;
+    color: rgb(247, 107, 0);
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px;
+    color: white;
+}
